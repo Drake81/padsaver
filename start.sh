@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# create sms.config if not exists
+# create padsaver.config if not exists
 echo "Checking Config"
 if [ ! -f "padsaver.config" ]; then
     cp padsaver.config.def padsaver.config
