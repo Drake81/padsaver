@@ -1,0 +1,3 @@
+#server
+apiurl    http[s]://example.org[:9001]
+apikey    123456789
